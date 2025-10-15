@@ -1,5 +1,9 @@
 # Physical Assembly
 
+This repository contains the parts needed for two or three strip designs of Lightbeam. Using three strips gives a better diffused light effect but the two strip option has proved useful to us.
+The description below is for a three strip variant, if you prefer the two strip version print part Duo-LED-tensioner.FCStd instead of LED-tensioner-top.FCStd
+
+
 ## Parts
 
 * 1 x My Bike's Got LED board, with USB connector on the short side and the vertical JST-PH battery connector fitted
