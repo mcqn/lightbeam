@@ -25,7 +25,7 @@ The [Parcels](https://github.com/mcqn/lightbeam/tree/main/parcel) folder contati
 
 ### Physical
 
-The [Physical]() folder contains the 3d models for the 3d printed components needed to bake the physical Lightbeam. The files are created in [Freecad](https://www.freecad.org/) The README for this folder also contains instructions to assemble the versions of Lightbeam.
+The [Physical](https://github.com/mcqn/lightbeam/tree/main/physical) folder contains the 3d models for the 3d printed components needed to bake the physical Lightbeam. The files are created in [Freecad](https://www.freecad.org/) The README for this folder also contains instructions to assemble the versions of Lightbeam.
 
 
 
